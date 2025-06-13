@@ -1,3 +1,15 @@
+# Tarefa: Roteiro de FreeRTOS #1 - EmbarcaTech 2025
+
+Autor: **Thiago Carrijo Rufino Rabelo**
+
+Curso: Residência Tecnológica em Sistemas Embarcados
+
+Instituição: EmbarcaTech - HBr
+
+Brasília, 13 de junho de 2025
+
+---
+
 # FreeRTOS Raspberry Pi Pico W em BitDogLab
 
 Este projeto demonstra o uso de FreeRTOS no microcontrolador RP2040 (BitDogLab) com tarefas de LED RGB, buzzer e leitura de botões, estruturado em build, lib e src.
